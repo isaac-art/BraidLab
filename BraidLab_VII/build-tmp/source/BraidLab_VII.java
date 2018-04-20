@@ -64,7 +64,7 @@ This program generates Braids by use of a simple cellular automata function.
 Carving the shape along the grain of the wood, but also being resisted and 
 pushed into where the grain goes, like canoeing down a river.
 
-So logical but mystical.
+
 
 */
 
